@@ -21,7 +21,7 @@
     "passport-google-oauth": "^2.0.0",
     "pg-promise": "^8.7.3",
     "pug": "2.0.0-beta11",
-    "sequelize": "^5.12.3",
+    "sequelize": "^5.15.1",
     "sha1": "^1.1.1"
   }
 }
